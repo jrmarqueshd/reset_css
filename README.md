@@ -2,7 +2,10 @@
 
 Desenvolvido por: **Junior Marques** /
 
+
 06/03/2019 - São Paulo - Brasil
+
+reset - V 1.0.0
 
 ***
 

@@ -1,3 +1,5 @@
+@import url("/colors.css");
+
 *{
     color: inherit;
     border: 0;
@@ -18,4 +20,21 @@
 *:focus-within{
     background: inherit;
     outline: none;
+}
+
+/*
+ ********************
+  Predefined classes 
+ ********************
+ */
+
+/* Navigation menu */
+
+.navigation-list{
+    background-color: var(--menu-background-color);
+    color: var(--menu-color);
+}
+
+.nav-inline li{
+    display: inline-block;
 }
